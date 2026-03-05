@@ -1,0 +1,23 @@
+{
+  "color": {
+    "primary": {
+      "base": {
+        "value": "#ff0000",
+        "type": "color"
+      }
+    }
+  },
+  "font": {
+    "heading": {
+      "h1": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "700",
+          "lineHeight": "120%",
+          "fontSize": "32px"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}
